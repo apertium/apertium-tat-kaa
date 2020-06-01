@@ -2,7 +2,6 @@
 ## Makefile for Tatar--Kara-Kalpak
 ###############################################################################
 
-VERSION=0.1.0
 LANG1=tat
 LANG2=kaa
 PREFIX1=$(LANG1)-$(LANG2)
@@ -244,4 +243,3 @@ test: all
 	@echo "house" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
