@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^,<cm>/,<cm>$
+[/0DUCxD10owuT]
+[J-Fl8PXT_9U8#0] ^jigit<n><nom>/егет<n><nom>$ ^ǵo<mod>/@ǵo<mod>$
+[/J-Fl8PXT_9U8]
+[PjLFL5l5NRSQ#0] ^jigit<n><nom>/егет<n><nom>$
+[/PjLFL5l5NRSQ]
+[QX14KPLgdCRi#0] ^jigit<n><sim>/егет<n><sim>$ ^-aq<postadv>/@-aq<postadv>$
+[/QX14KPLgdCRi]
+[Ues7cD0NGqeV#0] ^jigit<n><ins>/егет<n><ins>$
+[/Ues7cD0NGqeV]
+[otbSntjlfNpJ#0] ^jigit<n><nom>/егет<n><nom>$ ^meken<qst>/@meken<qst>$
+[/otbSntjlfNpJ]
+[tJNYlMjOFr3m#0] ^…<sent>/…<sent>$
+[/tJNYlMjOFr3m]
+[u3IIvJtdfATx#0] ^!<sent>/!<sent>$
+[/u3IIvJtdfATx]
+[zbTuKuppzGqD#0] ^.<sent>/.<sent>$
+[/zbTuKuppzGqD]

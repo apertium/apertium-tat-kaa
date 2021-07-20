@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[J-Fl8PXT_9U8#0] ^default<default>{^егет<n><nom>$}$ ^default<default>{^@ǵo<mod>$}$
+[/J-Fl8PXT_9U8]
+[PjLFL5l5NRSQ#0] ^default<default>{^егет<n><nom>$}$
+[/PjLFL5l5NRSQ]
+[QX14KPLgdCRi#0] ^default<default>{^егет<n><sim>$}$ ^default<default>{^@-aq<postadv>$}$
+[/QX14KPLgdCRi]
+[Ues7cD0NGqeV#0] ^default<default>{^егет<n><ins>$}$
+[/Ues7cD0NGqeV]
+[otbSntjlfNpJ#0] ^default<default>{^егет<n><nom>$}$ ^default<default>{^@meken<qst>$}$
+[/otbSntjlfNpJ]
+[tJNYlMjOFr3m#0] ^sent<SENT>{^…<sent>$}$
+[/tJNYlMjOFr3m]
+[u3IIvJtdfATx#0] ^sent<SENT>{^!<sent>$}$
+[/u3IIvJtdfATx]
+[zbTuKuppzGqD#0] ^sent<SENT>{^.<sent>$}$
+[/zbTuKuppzGqD]

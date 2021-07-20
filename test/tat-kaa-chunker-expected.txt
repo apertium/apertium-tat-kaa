@@ -1,0 +1,16 @@
+[0DUCxD10owuT#0] ^default<default>{^,<cm>$}$
+[/0DUCxD10owuT]
+[K9Vpg5J-iY-x#0] ^default<default>{^jigit<n><nom>$}$
+[/K9Vpg5J-iY-x]
+[dejnHk51TDuZ#0] ^default<default>{^jigit<n><px3sp><gen><subst><dat>$}$ ^default<default>{^@дыр<mod_ind><err_orth>$}$
+[/dejnHk51TDuZ]
+[inM_tGt3saWD#0] ^default<default>{^jigit<n><px2pl><gen><subst><dat>$}$ ^default<default>{^@дыр<mod_ind><err_orth>$}$
+[/inM_tGt3saWD]
+[lmAr4D1CYEfG#0] ^default<default>{^jigit<n><sim><px2pl><gen>$}$ ^default<default>{^@дыр<mod_ind>$}$
+[/lmAr4D1CYEfG]
+[tWvSFWbqOhnc#0] ^default<default>{^jigit<n><loc><subst><px3sp><gen><subst><dat>$}$ ^default<default>{^@дыр<mod_ind><err_orth>$}$
+[/tWvSFWbqOhnc]
+[u3IIvJtdfATx#0] ^sent<SENT>{^!<sent>$}$
+[/u3IIvJtdfATx]
+[zbTuKuppzGqD#0] ^sent<SENT>{^.<sent>$}$
+[/zbTuKuppzGqD]

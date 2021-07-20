@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^,/,<cm>$
+[/0DUCxD10owuT]
+[J-Fl8PXT_9U8#0] ^jigitǵo/jigit<n><nom>+ǵo<mod>/jigit<n><nom>+e<cop><aor><p3><pl>+ǵo<mod>/jigit<n><nom>+e<cop><aor><p3><sg>+ǵo<mod>$
+[/J-Fl8PXT_9U8]
+[PjLFL5l5NRSQ#0] ^jigit/jigit<n><nom>/jigit<n><attr>/jigit<n><nom>+e<cop><aor><p3><pl>/jigit<n><nom>+e<cop><aor><p3><sg>$
+[/PjLFL5l5NRSQ]
+[QX14KPLgdCRi#0] ^jigittey-aq/jigit<n><sim>+-aq<postadv>$
+[/QX14KPLgdCRi]
+[Ues7cD0NGqeV#0] ^jigitpen/jigit<n><ins>/jigit<n><nom>+e<cop><aor><p1><sg>$
+[/Ues7cD0NGqeV]
+[otbSntjlfNpJ#0] ^jigit peken/jigit<n><nom>+meken<qst>/jigit<n><nom>+e<cop><aor><p3><pl>+meken<qst>/jigit<n><nom>+e<cop><aor><p3><sg>+meken<qst>$
+[/otbSntjlfNpJ]
+[tJNYlMjOFr3m#0] ^…/…<sent>$
+[/tJNYlMjOFr3m]
+[u3IIvJtdfATx#0] ^!/!<sent>$
+[/u3IIvJtdfATx]
+[zbTuKuppzGqD#0] ^./.<sent>$
+[/zbTuKuppzGqD]
